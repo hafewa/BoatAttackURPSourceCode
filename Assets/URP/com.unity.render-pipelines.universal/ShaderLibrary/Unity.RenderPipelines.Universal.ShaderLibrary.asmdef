@@ -1,0 +1,15 @@
+{
+    "name": "Unity.RenderPipeline.Universal.ShaderLibrary",
+    "references": [
+        "GUID:bb7ff5e288e5a414b8b3115e681d6462"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
